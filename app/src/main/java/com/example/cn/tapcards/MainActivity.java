@@ -27,9 +27,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         // abcdef
        }
 
-
-    @Override
-    public void onClick(View v) {
-        
-    }
 }
